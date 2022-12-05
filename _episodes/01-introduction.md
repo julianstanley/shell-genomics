@@ -179,7 +179,7 @@ $ pwd
 {: .output}
 
 Let's look at how our file system is organized. We can see what files and subdirectories are in this directory by running `ls`,
-which stands for "listing":
+which stands for "list":
 
 ~~~
 $ ls
