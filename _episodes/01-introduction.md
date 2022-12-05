@@ -54,7 +54,7 @@ on your computer. The Terminal is a window into which we will type commands. If 
 To save time, we are going to be working on a remote server where all the necessary data and software available. When we say a 'remote sever', we are talking about a computer that is not the one you are working on right now. You will access the Carpentries remote server where everything is prepared for the lesson.
 We will learn the basics of the shell by manipulating some data files. Some of these files are very large
 , and would take time to download to your computer.
-We will also be using several bioinformatic packages in later lessons and installing all of the software would take up time even more time. A 'ready-to-go' sever let's us focus on learning. 
+We will also be using several bioinformatic packages in later lessons and installing all of the software would take up time even more time. A 'ready-to-go' sever lets us focus on learning. 
 
 ## How to access the remote server
 
